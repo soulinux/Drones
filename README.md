@@ -1,2 +1,3 @@
 # Drones
-Repo Drones - PIDS, Builds, TinyWhoop
+PIDS, Builds, TinyWhoop
+images/
